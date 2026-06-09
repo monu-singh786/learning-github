@@ -1,25 +1,47 @@
 # Learning GitHub
 
-This repository is my beginner-friendly learning space for GitHub.
+This repository is a beginner-friendly learning project for practicing GitHub step by step.
 
-## Why I Created This
+## Project Purpose
 
-I created this repo to practice GitHub and learn how repositories, commits, branches, and pull requests work.
+The goal of this repository is to document my GitHub learning journey in a simple and public way. It is not meant to be a finished software app. It is a practice project where I can learn how repositories, README files, commits, branches, issues, and pull requests work.
 
-## What I Am Learning
+## What This Repository Includes
 
-- Creating repositories
-- - Writing README files
-  - - Making commits
-    - - Understanding branches
-      - - Learning pull requests
-        - - Publishing projects publicly
-         
-          - ## How Others Can Help
-         
-          - You can help by suggesting improvements, correcting mistakes, sharing GitHub tips, or recommending small beginner projects.
-         
-          - ## Current Status
-         
-          - This is a beginner learning repo. I will update it as I learn more.
-          - 
+This project includes beginner notes, practice files, and guidance for people who want to help improve the repository.
+
+README.md explains the purpose of the project.
+
+The notes folder contains short lessons about GitHub concepts.
+
+The practice folder contains simple files used for hands-on learning.
+
+CONTRIBUTING.md explains how others can help.
+
+ROADMAP.md explains what I plan to learn next.
+
+GLOSSARY.md explains common GitHub words in simple language.
+
+## Learning Goals
+
+Goal 1: Understand what GitHub is and why people use it.
+
+Goal 2: Learn how repositories organize project files.
+
+Goal 3: Learn how commits save project history.
+
+Goal 4: Learn how branches and pull requests help people collaborate.
+
+Goal 5: Build confidence by publishing small public projects.
+
+## How Others Can Help
+
+People can help by correcting mistakes, improving explanations, suggesting beginner projects, adding examples, or opening issues with useful GitHub tips.
+
+## Current Status
+
+This is an active beginner learning repository. I will keep improving it as I learn more.
+
+## Author
+
+Created by Monu Singh as a first step toward learning GitHub and public project sharing.
